@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKJ125kqlBXlEwho8UjcIp13NwnjIQaBzQ9RCB9JVd-j3_I3bHa5fzIaApJBEALw_wcB) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası bir adet index.html barındırıyor. 
 
-![Lorem Picsum Gorsel](https://raw.githubusercontent.com/elifbuyukorhan/kodluyoruzilkrepo/main/figures/my_proje_figure.png)
+![Lorem Picsum Gorsel](https://raw.githubusercontent.com/elifbuyukorhan/kodluyoruzilkrepo/main/figures/myprojectfigure.png)
 
 # Installation
 Öncelikle projeyi clone'layın. (Buraya sizin reponuzdan aldığınız link gelecek.)
