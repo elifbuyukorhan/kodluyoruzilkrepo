@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKJ125kqlBXlEwho8UjcIp13NwnjIQaBzQ9RCB9JVd-j3_I3bHa5fzIaApJBEALw_wcB) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet index.html ve bir adet figures dosyası barındırıyor. 
+Bu repo [Kodluyoruz](https://kodluyoruz.org/?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKJ125kqlBXlEwho8UjcIp13NwnjIQaBzQ9RCB9JVd-j3_I3bHa5fzIaApJBEALw_wcB) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet index.html ve bir adet figures klasörü barındırıyor. 
 
 ![Lorem Picsum Gorsel](https://raw.githubusercontent.com/elifbuyukorhan/kodluyoruzilkrepo/main/figures/myprojectfigure.png)
 
